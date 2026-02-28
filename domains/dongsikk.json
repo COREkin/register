@@ -4,6 +4,9 @@
     "email": "ehdtlr2547@gmail.com"
   },
   "records": {
-    "CNAME": "d1kzm0j5ocq8o0.cloudfront.net"
+    "CNAME": "d1kzm0j5ocq8o0.cloudfront.net",
+    "_b3a902a3e340eed0730a104580cfd9b6": {
+      "CNAME": "_7807340daacb92dec248434b7fe5b2c9.jkddzztszm.acm-validations.aws."
+    }
   }
 }
